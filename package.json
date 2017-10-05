@@ -1,0 +1,24 @@
+{
+  "name": "feh_builder",
+  "version": "1.0.0",
+  "description": "concept builder ofr fire emblem heroes teams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsun6145/feh_teamBuilder_proj1.git"
+  },
+  "author": "Nathaniel Sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsun6145/feh_teamBuilder_proj1/issues"
+  },
+  "homepage": "https://github.com/nsun6145/feh_teamBuilder_proj1#readme",
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
